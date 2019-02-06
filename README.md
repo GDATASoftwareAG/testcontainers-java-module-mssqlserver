@@ -1,3 +1,6 @@
+# PERMANENTLY MOVED TO TESTCONTAINERS REPOSITORY
+See https://github.com/testcontainers/testcontainers-java/tree/master/modules/mssqlserver
+
 # TestContainers MS SQL Server Module
 
 Testcontainers module for the MS SQL Server database.
